@@ -17,7 +17,7 @@ class Solution {
      * @return ListNode
      */
     function addTwoNumbers($l1, $l2) {
-        $dummy = new ListNode(0);
+        $dummy = new ListNode(0);//tes
         $current = $dummy;
         $carry = 0;
 
